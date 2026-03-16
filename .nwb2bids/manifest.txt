@@ -1,0 +1,15 @@
+dandiset.yaml
+dataset_description.json
+participants.tsv
+participants.json
+derivatives/dataset_description.json
+sub-001/sub-001_sessions.tsv
+sub-001/sub-001_sessions.json
+sub-001/ses-LONELYMTN/ecephys/sub-001_ses-LONELYMTN_ecephys.json
+sub-001/ses-LONELYMTN/ecephys/sub-001_ses-LONELYMTN_probes.tsv
+sub-001/ses-LONELYMTN/ecephys/sub-001_ses-LONELYMTN_probes.json
+sub-001/ses-LONELYMTN/ecephys/sub-001_ses-LONELYMTN_channels.tsv
+sub-001/ses-LONELYMTN/ecephys/sub-001_ses-LONELYMTN_channels.json
+sub-001/ses-LONELYMTN/ecephys/sub-001_ses-LONELYMTN_electrodes.tsv
+sub-001/ses-LONELYMTN/ecephys/sub-001_ses-LONELYMTN_electrodes.json
+sub-001/ses-LONELYMTN/ecephys/sub-001_ses-LONELYMTN_ecephys.nwb

@@ -1,0 +1,11 @@
+{
+    "InstitutionName": "University of Middle Earth at the Shire",
+    "PowerLineFrequency": "n/a",
+    "Manufacturer": "Probe Company 9000",
+    "SamplingFrequency": 20000.0,
+    "RecordingDuration": 0.0025,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "brain area"
+}
