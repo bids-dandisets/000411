@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "It is a test to use DANDI archive, like hello world. I will not upload any neural data in this set.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Li, Chenyang"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
